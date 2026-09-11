@@ -1,0 +1,198 @@
+2026-09-11 10:26:37 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:26:37 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@212b5695d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:26:37 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:26:37 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@7e5afaa6d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:26:37 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:26:37 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:26:37 [main] INFO  performance - Memoria JVM | usada: 51.07 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 19.80%
+2026-09-11 10:26:37 [main] INFO  performance - Memoria fisica | usada: 12060.63 MB | total: 16384.00 MB | disponible: 4323.38 MB
+2026-09-11 10:26:37 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:26:37 [main] INFO  performance - RAM disponible ANTES   : 4323.08 MB
+2026-09-11 10:26:37 [main] INFO  performance - RAM disponible DESPUES : 4323.38 MB
+2026-09-11 10:26:37 [main] INFO  performance - Impacto sobre la RAM disponible: se liberaron 0.30 MB
+2026-09-11 10:26:37 [main] INFO  performance - Memoria JVM | usada: 55.04 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 21.33%
+2026-09-11 10:26:37 [main] INFO  performance - Memoria fisica | usada: 12060.63 MB | total: 16384.00 MB | disponible: 4323.38 MB
+2026-09-11 10:27:20 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:27:20 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@212b5695d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:27:20 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:27:20 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@7e5afaa6d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:27:20 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:27:20 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:27:20 [main] INFO  performance - Memoria JVM | usada: 51.07 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 19.80%
+2026-09-11 10:27:20 [main] INFO  performance - Memoria fisica | usada: 11831.78 MB | total: 16384.00 MB | disponible: 4552.22 MB
+2026-09-11 10:27:20 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:27:20 [main] INFO  performance - RAM disponible ANTES   : 4551.83 MB
+2026-09-11 10:27:20 [main] INFO  performance - RAM disponible DESPUES : 4552.22 MB
+2026-09-11 10:27:20 [main] INFO  performance - Impacto sobre la RAM disponible: se liberaron 0.39 MB
+2026-09-11 10:27:20 [main] INFO  performance - Heap usado ANTES de ciclo masivo de 100000 batallas   : 51.07 MB
+2026-09-11 10:27:20 [main] INFO  performance - Heap usado DESPUES de ciclo masivo de 100000 batallas : 55.04 MB
+2026-09-11 10:27:20 [main] INFO  performance - Variacion del heap: crecio 3.97 MB
+2026-09-11 10:27:20 [main] INFO  performance - Memoria JVM | usada: 55.04 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 21.33%
+2026-09-11 10:27:20 [main] INFO  performance - Memoria fisica | usada: 11831.78 MB | total: 16384.00 MB | disponible: 4552.22 MB
+2026-09-11 10:34:33 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:34:33 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@793be5cad footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:34:33 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:34:33 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@1b1426f4d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:34:33 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:34:33 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:34:34 [main] INFO  performance - Memoria JVM | usada: 52.08 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 20.19%
+2026-09-11 10:34:34 [main] INFO  performance - Memoria fisica | usada: 12410.83 MB | total: 16384.00 MB | disponible: 3973.17 MB
+2026-09-11 10:34:34 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:34:34 [main] INFO  performance - RAM disponible ANTES   : 3970.45 MB
+2026-09-11 10:34:34 [main] INFO  performance - RAM disponible DESPUES : 3973.17 MB
+2026-09-11 10:34:34 [main] INFO  performance - Impacto sobre la RAM disponible: se liberaron 2.72 MB
+2026-09-11 10:34:34 [main] INFO  performance - Heap usado ANTES de ciclo masivo de 100000 batallas   : 52.08 MB
+2026-09-11 10:34:34 [main] INFO  performance - Heap usado DESPUES de ciclo masivo de 100000 batallas : 55.04 MB
+2026-09-11 10:34:34 [main] INFO  performance - Variacion del heap: crecio 2.96 MB
+2026-09-11 10:34:34 [main] INFO  performance - Memoria JVM | usada: 55.04 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 21.33%
+2026-09-11 10:34:34 [main] INFO  performance - Memoria fisica | usada: 12410.83 MB | total: 16384.00 MB | disponible: 3973.17 MB
+2026-09-11 10:34:42 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:34:42 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@68c72235d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:34:42 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:34:42 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@120f102bd footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:34:42 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:34:42 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:34:43 [main] INFO  performance - Memoria JVM | usada: 51.05 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 19.79%
+2026-09-11 10:34:43 [main] INFO  performance - Memoria fisica | usada: 12342.66 MB | total: 16384.00 MB | disponible: 4041.34 MB
+2026-09-11 10:34:43 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:34:43 [main] INFO  performance - RAM disponible ANTES   : 4041.34 MB
+2026-09-11 10:34:43 [main] INFO  performance - RAM disponible DESPUES : 4041.34 MB
+2026-09-11 10:34:43 [main] INFO  performance - Impacto sobre la RAM disponible: se consumieron 0.00 MB
+2026-09-11 10:34:43 [main] INFO  performance - Heap usado ANTES de ciclo masivo de 100000 batallas   : 51.05 MB
+2026-09-11 10:34:43 [main] INFO  performance - Heap usado DESPUES de ciclo masivo de 100000 batallas : 55.04 MB
+2026-09-11 10:34:43 [main] INFO  performance - Variacion del heap: crecio 3.99 MB
+2026-09-11 10:34:43 [main] INFO  performance - Memoria JVM | usada: 55.04 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 21.33%
+2026-09-11 10:34:43 [main] INFO  performance - Memoria fisica | usada: 12342.66 MB | total: 16384.00 MB | disponible: 4041.34 MB
+2026-09-11 10:35:07 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:35:07 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@5b799640d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:35:07 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:35:07 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@4b8d604bd footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:35:07 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:35:07 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:35:08 [main] INFO  performance - Memoria JVM | usada: 17.30 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 6.71%
+2026-09-11 10:35:08 [main] INFO  performance - Memoria fisica | usada: 12345.53 MB | total: 16384.00 MB | disponible: 4038.47 MB
+2026-09-11 10:35:08 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:35:08 [main] INFO  performance - RAM disponible ANTES   : 4038.47 MB
+2026-09-11 10:35:08 [main] INFO  performance - RAM disponible DESPUES : 4038.47 MB
+2026-09-11 10:35:08 [main] INFO  performance - Impacto sobre la RAM disponible: se consumieron 0.00 MB
+2026-09-11 10:35:08 [main] INFO  performance - Heap usado ANTES de ciclo masivo de 100000 batallas   : 17.30 MB
+2026-09-11 10:35:08 [main] INFO  performance - Heap usado DESPUES de ciclo masivo de 100000 batallas : 20.47 MB
+2026-09-11 10:35:08 [main] INFO  performance - Variacion del heap: crecio 3.17 MB
+2026-09-11 10:35:08 [main] INFO  performance - Memoria JVM | usada: 20.47 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 7.93%
+2026-09-11 10:35:08 [main] INFO  performance - Memoria fisica | usada: 12345.53 MB | total: 16384.00 MB | disponible: 4038.47 MB
+2026-09-11 10:42:52 [main] INFO  performance - Objeto 'Nodo Pokemon (Charmander)' | tamano superficial: 40 bytes | con referencias: 288 bytes (0.00 MB)
+2026-09-11 10:42:52 [main] INFO  performance - Memory footprint de 'Nodo Pokemon (Charmander)':
+com.example.Model.Pokemon@5b799640d footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+         9                 288   (total)
+
+
+2026-09-11 10:42:52 [main] INFO  performance - Objeto 'LineaEvolutiva completa' | tamano superficial: 32 bytes | con referencias: 320 bytes (0.00 MB)
+2026-09-11 10:42:52 [main] INFO  performance - Memory footprint de 'LineaEvolutiva completa':
+com.example.Model.LineaEvolutiva@4b8d604bd footprint:
+     COUNT       AVG       SUM   DESCRIPTION
+         3        32        96   [B
+         1        32        32   com.example.Model.LineaEvolutiva
+         3        40       120   com.example.Model.Pokemon
+         3        24        72   java.lang.String
+        10                 320   (total)
+
+
+2026-09-11 10:42:52 [main] INFO  performance - Objeto 'Nodo enemigo (Caterpie)' | tamano superficial: 40 bytes | con referencias: 88 bytes (0.00 MB)
+2026-09-11 10:42:52 [main] INFO  performance - Objeto 'Horda completa (100000 enemigos)' | tamano superficial: 400016 bytes | con referencias: 4400064 bytes (4.20 MB)
+2026-09-11 10:42:52 [main] INFO  performance - Memoria JVM | usada: 55.07 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 21.34%
+2026-09-11 10:42:52 [main] INFO  performance - Memoria fisica | usada: 12648.63 MB | total: 16384.00 MB | disponible: 3735.38 MB
+2026-09-11 10:42:52 [main] INFO  performance - Proceso medido: ciclo masivo de 100000 batallas
+2026-09-11 10:42:52 [main] INFO  performance - RAM disponible ANTES   : 3745.80 MB
+2026-09-11 10:42:52 [main] INFO  performance - RAM disponible DESPUES : 3735.38 MB
+2026-09-11 10:42:52 [main] INFO  performance - Impacto sobre la RAM disponible: se consumieron 10.42 MB
+2026-09-11 10:42:52 [main] INFO  performance - Memoria JVM | usada: 19.53 MB | asignada: 258.00 MB | maxima: 4096.00 MB | uso: 7.57%
+2026-09-11 10:42:52 [main] INFO  performance - Memoria fisica | usada: 12648.63 MB | total: 16384.00 MB | disponible: 3735.38 MB
