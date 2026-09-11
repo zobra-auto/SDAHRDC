@@ -1,104 +1,34 @@
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000 | semilla: 2026
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:26:35 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:26:35 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:26:35 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:26:35 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:35 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:26:35 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:26:37 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:26:37 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:26:37 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:26:37 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:26:37 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:26:37 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:26:37 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:26:37 [main] INFO  com.example.Main - Resumen del entrenamiento: 
+2026-09-11 12:33:23 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
+2026-09-11 12:33:23 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
+2026-09-11 12:33:23 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:23 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
+2026-09-11 12:33:23 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
+2026-09-11 12:33:26 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Resumen del entrenamiento: 
 Enemigos enfrentados : 100000
 Victorias            : 100000
 Derrotas             : 0
@@ -106,40 +36,460 @@ Turnos totales       : 100260
 Experiencia final    : 5000000
 Evoluciones          : 2
 Fase final           : Charizard
-Tiempo total         : 0.0135 s (13.52 ms)
+Tiempo total         : 0.0135 s (13.54 ms)
 
-2026-09-11 10:26:37 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
-2026-09-11 10:27:18 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:27:18 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:27:18 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:18 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:27:18 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:27:20 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:27:20 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:27:20 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:27:20 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:20 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:27:20 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:27:20 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:27:20 [main] INFO  com.example.Main - Resumen del entrenamiento: 
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ===== FASE 2 | ROTACION DE EQUIPO CON COLA CIRCULAR Y CAJA NEGRA =====
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ----- 4. CASO DE PRUEBA DEL ENUNCIADO: 250 CATERPIE | K = 50 | C = 3 -----
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Cola inicial del equipo: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Turno de campo #1 | sale Bulbasaur | derrota 50 Caterpie | cola rota: [Charmander, Squirtle, Bulbasaur]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Turno de campo #2 | sale Charmander | derrota 50 Caterpie | cola rota: [Squirtle, Bulbasaur, Charmander]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Turno de campo #3 | sale Squirtle | derrota 50 Caterpie | cola rota: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Turno de campo #4 | sale Bulbasaur | derrota 50 Caterpie | cola rota: [Charmander, Squirtle, Bulbasaur]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Turno de campo #5 | sale Charmander | derrota 50 Caterpie | cola rota: [Squirtle, Bulbasaur, Charmander]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Resumen del caso de prueba: 
+Enemigos en la horda  : 250
+Enemigos derrotados   : 250
+Turnos de campo       : 5
+Rotaciones de la cola : 5
+Evoluciones           : 5
+Turnos de combate     : 1050
+Pokemon retirados     : 0
+Equipo final          : [Squirtle, Bulbasaur, Charmander]
+Caja Negra final      : [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+Tiempo total          : 0.0021 s (2.10 ms)
+
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ----- 5. HORDA MASIVA CON ROTACION: 100000 ENEMIGOS | K = 50 | C = 10 -----
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:33:26 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Cola inicial del equipo: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 100000 | turno de campo (K): 50 | capacidad de la caja negra (C): 10
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #6 | linea Squirtle | experiencia: 5000 | nueva fase: Blastoise
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 10000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 20000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 30000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 40000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 50000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 60000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 70000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 80000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 90000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 100000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 2000 | evoluciones: 6
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 10 | registros vivos: 10 | registros descartados: 1990 -----
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 1 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 2 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 3 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 4 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 5 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 6 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 7 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 8 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 9 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Registro 10 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:26 [main] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Squirtle', faseActual = Blastoise, experienciaAcumulada = 1665000, cantidadFases = 3, linea = [Squirtle] -> [Wartortle] -> [Blastoise (actual)] -> null}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Bulbasaur', faseActual = Venusaur, experienciaAcumulada = 1667500, cantidadFases = 3, linea = [Bulbasaur] -> [Ivysaur] -> [Venusaur (actual)] -> null}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charizard, experienciaAcumulada = 1667500, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
+2026-09-11 12:33:26 [main] INFO  com.example.Main - Resumen de la rotacion masiva: 
+Enemigos en la horda  : 100000
+Enemigos derrotados   : 100000
+Turnos de campo       : 2000
+Rotaciones de la cola : 2000
+Evoluciones           : 6
+Turnos de combate     : 100900
+Pokemon retirados     : 0
+Equipo final          : [Squirtle, Bulbasaur, Charmander]
+Caja Negra final      : [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+Tiempo total          : 0.0146 s (14.57 ms)
+
+2026-09-11 12:33:26 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 10 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 10
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 50 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 50 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 1 | evoluciones: 1
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 1 | registros descartados: 0 -----
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 50 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 50 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 1 | evoluciones: 1
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 1 | registros descartados: 0 -----
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:33:53 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 10 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 10
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 50 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 50 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 1 | evoluciones: 1
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 1 | registros descartados: 0 -----
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 50 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 50 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 1 | evoluciones: 1
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 1 | registros descartados: 0 -----
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:03 [Test worker] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:05 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
+2026-09-11 12:35:05 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
+2026-09-11 12:35:05 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:05 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
+2026-09-11 12:35:05 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
+2026-09-11 12:35:08 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Resumen del entrenamiento: 
 Enemigos enfrentados : 100000
 Victorias            : 100000
 Derrotas             : 0
@@ -147,450 +497,102 @@ Turnos totales       : 100260
 Experiencia final    : 5000000
 Evoluciones          : 2
 Fase final           : Charizard
-Tiempo total         : 0.0135 s (13.45 ms)
+Tiempo total         : 0.0148 s (14.82 ms)
 
-2026-09-11 10:27:20 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000 | semilla: 2026
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:27:40 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000 | semilla: 2026
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:34:13 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:34:30 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:34:30 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:34:30 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:30 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:34:30 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:34:33 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:34:33 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:33 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:34:33 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:34:33 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:34:33 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:34:33 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:34:33 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:33 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:34:33 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:34:34 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:34 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:34:34 [main] INFO  com.example.Main - Resumen del entrenamiento: 
-Enemigos enfrentados : 100000
-Victorias            : 100000
-Derrotas             : 0
-Turnos totales       : 100260
-Experiencia final    : 5000000
-Evoluciones          : 2
-Fase final           : Charizard
-Tiempo total         : 0.0144 s (14.35 ms)
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ===== FASE 2 | ROTACION DE EQUIPO CON COLA CIRCULAR Y CAJA NEGRA =====
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ----- 4. CASO DE PRUEBA DEL ENUNCIADO: 250 CATERPIE | K = 50 | C = 3 -----
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Generando horda de 250 Caterpie
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 250
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Cola inicial del equipo: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 250 | turno de campo (K): 50 | capacidad de la caja negra (C): 3
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Turno de campo #1 | sale Bulbasaur | derrota 50 Caterpie | cola rota: [Charmander, Squirtle, Bulbasaur]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Turno de campo #2 | sale Charmander | derrota 50 Caterpie | cola rota: [Squirtle, Bulbasaur, Charmander]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Turno de campo #3 | sale Squirtle | derrota 50 Caterpie | cola rota: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Turno de campo #4 | sale Bulbasaur | derrota 50 Caterpie | cola rota: [Charmander, Squirtle, Bulbasaur]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Turno de campo #5 | sale Charmander | derrota 50 Caterpie | cola rota: [Squirtle, Bulbasaur, Charmander]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 5 | evoluciones: 5
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 3 | registros vivos: 3 | registros descartados: 2 -----
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 1 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 2 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 3 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Resumen del caso de prueba: 
+Enemigos en la horda  : 250
+Enemigos derrotados   : 250
+Turnos de campo       : 5
+Rotaciones de la cola : 5
+Evoluciones           : 5
+Turnos de combate     : 1050
+Pokemon retirados     : 0
+Equipo final          : [Squirtle, Bulbasaur, Charmander]
+Caja Negra final      : [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+Tiempo total          : 0.0023 s (2.35 ms)
 
-2026-09-11 10:34:34 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
-2026-09-11 10:34:40 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:34:40 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:34:40 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:40 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:34:40 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:34:42 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:34:42 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:42 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:34:42 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:34:42 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:34:42 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:34:42 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:34:42 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:34:42 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:34:42 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:34:43 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:34:43 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:34:43 [main] INFO  com.example.Main - Resumen del entrenamiento: 
-Enemigos enfrentados : 100000
-Victorias            : 100000
-Derrotas             : 0
-Turnos totales       : 100260
-Experiencia final    : 5000000
-Evoluciones          : 2
-Fase final           : Charizard
-Tiempo total         : 0.0141 s (14.12 ms)
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ----- 5. HORDA MASIVA CON ROTACION: 100000 ENEMIGOS | K = 50 | C = 10 -----
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Bulbasaur
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Squirtle
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Equipo encolado | integrantes: 3
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
+2026-09-11 12:35:08 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Cola inicial del equipo: [Bulbasaur, Charmander, Squirtle]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Inicio de la rotacion | equipo: [Bulbasaur, Charmander, Squirtle] | enemigos en la horda: 100000 | turno de campo (K): 50 | capacidad de la caja negra (C): 10
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #1 | linea Bulbasaur | experiencia: 1500 | nueva fase: Ivysaur
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #2 | linea Charmander | experiencia: 1500 | nueva fase: Charmeleon
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #3 | linea Squirtle | experiencia: 1500 | nueva fase: Wartortle
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #4 | linea Bulbasaur | experiencia: 5000 | nueva fase: Venusaur
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #5 | linea Charmander | experiencia: 5000 | nueva fase: Charizard
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - EVOLUCION en el turno de campo #6 | linea Squirtle | experiencia: 5000 | nueva fase: Blastoise
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 10000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 20000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 30000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 40000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 50000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 60000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 70000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 80000/100000 | en campo: Venusaur | caja negra: [(Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 90000/100000 | en campo: Blastoise | caja negra: [(Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Progreso | enemigos derrotados: 100000/100000 | en campo: Charizard | caja negra: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Fin de la rotacion | horda derrotada: true | turnos de campo: 2000 | evoluciones: 6
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - ----- CAJA NEGRA | capacidad: 10 | registros vivos: 10 | registros descartados: 1990 -----
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 1 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 2 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 3 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 4 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 5 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 6 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 7 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 8 | Squirtle vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 9 | Bulbasaur vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Registro 10 | Charmander vs Caterpie | derrotados: 50
+2026-09-11 12:35:08 [main] INFO  com.example.Service.SimulacionService - Caja Negra FINAL: [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Squirtle', faseActual = Blastoise, experienciaAcumulada = 1665000, cantidadFases = 3, linea = [Squirtle] -> [Wartortle] -> [Blastoise (actual)] -> null}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Bulbasaur', faseActual = Venusaur, experienciaAcumulada = 1667500, cantidadFases = 3, linea = [Bulbasaur] -> [Ivysaur] -> [Venusaur (actual)] -> null}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Estado final del integrante: LineaEvolutiva {nombreLinea = 'Charmander', faseActual = Charizard, experienciaAcumulada = 1667500, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
+2026-09-11 12:35:08 [main] INFO  com.example.Main - Resumen de la rotacion masiva: 
+Enemigos en la horda  : 100000
+Enemigos derrotados   : 100000
+Turnos de campo       : 2000
+Rotaciones de la cola : 2000
+Evoluciones           : 6
+Turnos de combate     : 100900
+Pokemon retirados     : 0
+Equipo final          : [Squirtle, Bulbasaur, Charmander]
+Caja Negra final      : [(Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50), (Squirtle vs Caterpie: 50), (Bulbasaur vs Caterpie: 50), (Charmander vs Caterpie: 50)]
+Tiempo total          : 0.0144 s (14.35 ms)
 
-2026-09-11 10:34:43 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000 | semilla: 2026
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:35:05 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:35:06 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:35:06 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:35:06 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:06 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:35:06 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:35:07 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:35:07 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:07 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:35:07 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:35:07 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:35:07 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:35:07 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:35:07 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:35:07 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:35:07 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:35:08 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:35:08 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:35:08 [main] INFO  com.example.Main - Resumen del entrenamiento: 
-Enemigos enfrentados : 100000
-Victorias            : 100000
-Derrotas             : 0
-Turnos totales       : 100260
-Experiencia final    : 5000000
-Evoluciones          : 2
-Fase final           : Charizard
-Tiempo total         : 0.0122 s (12.22 ms)
-
-2026-09-11 10:35:08 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 29 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 29
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 30 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 30
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 29
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 29 | evoluciones: 0 | fase final: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 30
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 30 | evoluciones: 1 | fase final: Charmeleon
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 2 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 2
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda aleatoria | enemigos: 1000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda aleatoria generada | enemigos: 1000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 1000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 1000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 100 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Generando horda de 1 Caterpie
-2026-09-11 10:42:49 [Test worker] INFO  com.example.Util.Configuration - Horda generada | enemigos: 1
-2026-09-11 10:42:50 [main] INFO  com.example.Main - ===== FASE 1 | ESTRUCTURAS DE DATOS LINEALES Y ANALISIS DE COMPLEJIDAD =====
-2026-09-11 10:42:50 [main] INFO  com.example.Main - ----- 1. ESTRUCTURA DE DATOS: LINEA EVOLUTIVA -----
-2026-09-11 10:42:50 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:50 [main] INFO  com.example.Main - Recorrido de la lista enlazada: [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null
-2026-09-11 10:42:50 [main] INFO  com.example.Main - Estado inicial: LineaEvolutiva {faseActual = Charmander, experienciaAcumulada = 0, cantidadFases = 3, linea = [Charmander (actual)] -> [Charmeleon] -> [Charizard] -> null}
-2026-09-11 10:42:52 [main] INFO  com.example.Main - ----- 2. VALIDACION LOGICA: CHARMANDER VS RATTATA -----
-2026-09-11 10:42:52 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Dano de Charmander sobre Rattata: max(1, 52 - 35) = 17
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Dano de Rattata sobre Charmander: max(1, 56 - 43) = 13
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Resultado: ResultadoBatalla {victoria = true, turnos = 3, hpRestanteAliado = 26, hpRestanteEnemigo = 0}
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Charmander termina con 26/39 HP y 50 puntos de experiencia
-2026-09-11 10:42:52 [main] INFO  com.example.Main - ----- 3. PRUEBA DE ESTRES: HORDE TRAINING (100000 ENEMIGOS) -----
-2026-09-11 10:42:52 [main] INFO  com.example.Util.Configuration - Linea evolutiva creada | fases: 3 | fase inicial: Charmander
-2026-09-11 10:42:52 [main] INFO  com.example.Util.Configuration - Generando horda de 100000 Caterpie
-2026-09-11 10:42:52 [main] INFO  com.example.Util.Configuration - Horda generada | enemigos: 100000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Inicio de entrenamiento masivo | fase inicial: Charmander | enemigos en la horda: 100000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #30 | experiencia acumulada: 1500 | nueva fase: Pokemon {nombre = 'Charmeleon', puntosDeVidaMaximos = 58, ataque = 64, defensa = 58, experienciaRequerida = 5000, siguienteEvolucion = Charizard}
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - EVOLUCION tras la batalla #100 | experiencia acumulada: 5000 | nueva fase: Pokemon {nombre = 'Charizard', puntosDeVidaMaximos = 78, ataque = 84, defensa = 78, experienciaRequerida = -1, siguienteEvolucion = null}
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 10000 | fase actual: Charizard | experiencia: 500000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 20000 | fase actual: Charizard | experiencia: 1000000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 30000 | fase actual: Charizard | experiencia: 1500000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 40000 | fase actual: Charizard | experiencia: 2000000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 50000 | fase actual: Charizard | experiencia: 2500000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 60000 | fase actual: Charizard | experiencia: 3000000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 70000 | fase actual: Charizard | experiencia: 3500000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 80000 | fase actual: Charizard | experiencia: 4000000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 90000 | fase actual: Charizard | experiencia: 4500000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Progreso | enemigos derrotados: 100000 | fase actual: Charizard | experiencia: 5000000
-2026-09-11 10:42:52 [main] INFO  com.example.Service.EntrenamientoService - Fin de entrenamiento masivo | victorias: 100000 | evoluciones: 2 | fase final: Charizard
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Estado final de la linea evolutiva: LineaEvolutiva {faseActual = Charizard, experienciaAcumulada = 5000000, cantidadFases = 3, linea = [Charmander] -> [Charmeleon] -> [Charizard (actual)] -> null}
-2026-09-11 10:42:52 [main] INFO  com.example.Main - Resumen del entrenamiento: 
-Enemigos enfrentados : 100000
-Victorias            : 100000
-Derrotas             : 0
-Turnos totales       : 100260
-Experiencia final    : 5000000
-Evoluciones          : 2
-Fase final           : Charizard
-Tiempo total         : 0.0117 s (11.68 ms)
-
-2026-09-11 10:42:52 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====
+2026-09-11 12:35:08 [main] INFO  com.example.Main - ===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====

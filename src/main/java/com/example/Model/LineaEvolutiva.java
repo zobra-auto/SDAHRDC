@@ -78,6 +78,10 @@ public class LineaEvolutiva {
 
     }
 
+    public String getNombreLinea() {
+        return primeraFase == null ? "Linea vacia" : primeraFase.getNombre();
+    }
+
     public boolean estaVacia() {
         return primeraFase == null;
     }
@@ -105,7 +109,8 @@ public class LineaEvolutiva {
     @Override
     public String toString() {
         return "LineaEvolutiva {" +
-                "faseActual = " + (faseActual == null ? "null" : faseActual.getNombre()) +
+                "nombreLinea = '" + getNombreLinea() + '\'' +
+                ", faseActual = " + (faseActual == null ? "null" : faseActual.getNombre()) +
                 ", experienciaAcumulada = " + experienciaAcumulada +
                 ", cantidadFases = " + cantidadFases +
                 ", linea = " + recorrerLinea() +

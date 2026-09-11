@@ -4,13 +4,28 @@ import com.example.Model.LineaEvolutiva;
 import com.example.Model.Pokemon;
 import lombok.extern.log4j.Log4j2;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 @Log4j2
 public class Configuration {
+
+    private static final Pokemon[] FASES_BULBASAUR = {
+            new Pokemon("Bulbasaur", 45, 49, 49, 1500),
+            new Pokemon("Ivysaur", 60, 62, 63, 5000),
+            new Pokemon("Venusaur", 80, 82, 83, Pokemon.SIN_EVOLUCION)
+    };
 
     private static final Pokemon[] FASES_CHARMANDER = {
             new Pokemon("Charmander", 39, 52, 43, 1500),
             new Pokemon("Charmeleon", 58, 64, 58, 5000),
             new Pokemon("Charizard", 78, 84, 78, Pokemon.SIN_EVOLUCION)
+    };
+
+    private static final Pokemon[] FASES_SQUIRTLE = {
+            new Pokemon("Squirtle", 44, 48, 65, 1500),
+            new Pokemon("Wartortle", 59, 63, 80, 5000),
+            new Pokemon("Blastoise", 79, 83, 100, Pokemon.SIN_EVOLUCION)
     };
 
     private static final String NOMBRE_ENEMIGO_HORDA = "Caterpie";
@@ -30,11 +45,37 @@ public class Configuration {
     private static final int DEFENSA_ALEATORIA_MINIMA = 25;
     private static final int DEFENSA_ALEATORIA_MAXIMA = 40;
 
+    public static LineaEvolutiva crearLineaEvolutivaBulbasaur() {
+        return construirLineaEvolutiva(FASES_BULBASAUR);
+    }
+
     public static LineaEvolutiva crearLineaEvolutivaCharmander() {
+        return construirLineaEvolutiva(FASES_CHARMANDER);
+    }
+
+    public static LineaEvolutiva crearLineaEvolutivaSquirtle() {
+        return construirLineaEvolutiva(FASES_SQUIRTLE);
+    }
+
+    public static Queue<LineaEvolutiva> crearEquipoInicial() {
+
+        Queue<LineaEvolutiva> equipo = new LinkedList<>();
+
+        equipo.offer(crearLineaEvolutivaBulbasaur());
+        equipo.offer(crearLineaEvolutivaCharmander());
+        equipo.offer(crearLineaEvolutivaSquirtle());
+
+        log.info("Equipo encolado | integrantes: {}", equipo.size());
+
+        return equipo;
+
+    }
+
+    private static LineaEvolutiva construirLineaEvolutiva(Pokemon[] fases) {
 
         LineaEvolutiva lineaEvolutiva = new LineaEvolutiva();
 
-        for (Pokemon fase : FASES_CHARMANDER) {
+        for (Pokemon fase : fases) {
 
             Pokemon nodo = new Pokemon(fase.getNombre(), fase.getPuntosDeVidaMaximos(),
                     fase.getAtaque(), fase.getDefensa(), fase.getExperienciaRequerida());

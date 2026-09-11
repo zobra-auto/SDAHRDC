@@ -1,10 +1,13 @@
 package com.example;
 
+import com.example.Model.CajaNegra;
 import com.example.Model.LineaEvolutiva;
 import com.example.Model.Pokemon;
 import com.example.Model.ResultadoBatalla;
 import com.example.Model.ResultadoEntrenamiento;
+import com.example.Model.ResultadoSimulacion;
 import com.example.Service.EntrenamientoService;
+import com.example.Service.SimulacionService;
 import com.example.Util.Configuration;
 import com.example.Util.PerformanceReporter;
 import lombok.extern.log4j.Log4j2;
@@ -12,6 +15,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.util.Locale;
+import java.util.Queue;
 
 @Log4j2
 public class Main {
@@ -19,6 +23,14 @@ public class Main {
     private static final Logger loggerTiempos = LogManager.getLogger("tiempos");
 
     private static final int CANTIDAD_ENEMIGOS = 100_000;
+
+    private static final int ENEMIGOS_POR_TURNO = 50;
+
+    private static final int CAPACIDAD_CAJA_NEGRA = 10;
+
+    private static final int HORDA_DE_VALIDACION = 250;
+
+    private static final int CAPACIDAD_CAJA_NEGRA_VALIDACION = 3;
 
     public static void main(String[] args) {
 
@@ -29,6 +41,11 @@ public class Main {
             analizarEstructura();
             ejecutarBatallaDeValidacion();
             ejecutarEntrenamientoMasivo();
+
+            log.info("===== FASE 2 | ROTACION DE EQUIPO CON COLA CIRCULAR Y CAJA NEGRA =====");
+
+            ejecutarRotacionDeValidacion();
+            ejecutarRotacionMasiva();
 
             log.info("===== SIMULACION FINALIZADA | revise la carpeta 'logs' para el detalle =====");
 
@@ -124,6 +141,56 @@ public class Main {
 
         log.info("Estado final de la linea evolutiva: {}", miPokemon);
         log.info("Resumen del entrenamiento: {}", resultado.resumen());
+
+    }
+
+    private static void ejecutarRotacionDeValidacion() {
+
+        log.info("----- 4. CASO DE PRUEBA DEL ENUNCIADO: {} CATERPIE | K = {} | C = {} -----",
+                HORDA_DE_VALIDACION, ENEMIGOS_POR_TURNO, CAPACIDAD_CAJA_NEGRA_VALIDACION);
+
+        Queue<LineaEvolutiva> equipo = Configuration.crearEquipoInicial();
+        Pokemon[] horda = Configuration.generarHordaCaterpie(HORDA_DE_VALIDACION);
+        CajaNegra cajaNegra = new CajaNegra(CAPACIDAD_CAJA_NEGRA_VALIDACION);
+
+        log.info("Cola inicial del equipo: {}", SimulacionService.describirEquipo(equipo));
+
+        ResultadoSimulacion resultado = SimulacionService.simularHordaConRotacion(
+                equipo, horda, ENEMIGOS_POR_TURNO, cajaNegra, true);
+
+        log.info("Resumen del caso de prueba: {}", resultado.resumen());
+
+    }
+
+    private static void ejecutarRotacionMasiva() {
+
+        log.info("----- 5. HORDA MASIVA CON ROTACION: {} ENEMIGOS | K = {} | C = {} -----",
+                CANTIDAD_ENEMIGOS, ENEMIGOS_POR_TURNO, CAPACIDAD_CAJA_NEGRA);
+
+        Queue<LineaEvolutiva> equipo = Configuration.crearEquipoInicial();
+        Pokemon[] horda = Configuration.generarHordaCaterpie(CANTIDAD_ENEMIGOS);
+        CajaNegra cajaNegra = new CajaNegra(CAPACIDAD_CAJA_NEGRA);
+
+        log.info("Cola inicial del equipo: {}", SimulacionService.describirEquipo(equipo));
+
+        PerformanceReporter.medirPesoObjeto(cajaNegra, "Caja Negra vacia (C = " + CAPACIDAD_CAJA_NEGRA + ")");
+
+        long memoriaAntes = PerformanceReporter.capturarMemoriaDisponible();
+
+        ResultadoSimulacion resultado = SimulacionService.simularHordaConRotacion(
+                equipo, horda, ENEMIGOS_POR_TURNO, cajaNegra, false);
+
+        long memoriaDespues = PerformanceReporter.capturarMemoriaDisponible();
+
+        PerformanceReporter.medirPesoObjeto(cajaNegra, "Caja Negra tras " + CANTIDAD_ENEMIGOS + " victorias");
+        PerformanceReporter.compararMemoriaDisponible(memoriaAntes, memoriaDespues,
+                "rotacion circular sobre " + CANTIDAD_ENEMIGOS + " enemigos");
+
+        for (LineaEvolutiva integrante : equipo) {
+            log.info("Estado final del integrante: {}", integrante);
+        }
+
+        log.info("Resumen de la rotacion masiva: {}", resultado.resumen());
 
     }
 

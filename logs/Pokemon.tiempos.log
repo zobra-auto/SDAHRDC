@@ -1,84 +1,60 @@
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.20 ms) | nanoTime: 195583 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 6744 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0007 s (0.75 ms) | nanoTime: 745333 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 24844 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0005 s (0.51 ms) | nanoTime: 508750 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 5087 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1316 | tiempo: 0.0011 s (1.06 ms) | nanoTime: 1062291 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 1062 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0091 s (9.10 ms) | nanoTime: 9099958 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 90 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0001 s (0.13 ms) | nanoTime: 134417 ns
-2026-09-11 10:26:35 [Test worker] INFO  tiempos - Costo promedio por batalla | 1344 ns
-2026-09-11 10:26:37 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 440459 ns
-2026-09-11 10:26:37 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0021 s
-2026-09-11 10:26:37 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0135 s (13.52 ms) | nanoTime: 13516084 ns
-2026-09-11 10:26:37 [main] INFO  tiempos - Costo promedio por batalla | 135 ns
-2026-09-11 10:27:20 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 351084 ns
-2026-09-11 10:27:20 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0022 s
-2026-09-11 10:27:20 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0135 s (13.45 ms) | nanoTime: 13452041 ns
-2026-09-11 10:27:20 [main] INFO  tiempos - Costo promedio por batalla | 134 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.15 ms) | nanoTime: 154375 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 5323 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0007 s (0.67 ms) | nanoTime: 669875 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 22329 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.30 ms) | nanoTime: 295333 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 2953 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1316 | tiempo: 0.0007 s (0.67 ms) | nanoTime: 669750 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 669 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0093 s (9.34 ms) | nanoTime: 9341333 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 93 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.26 ms) | nanoTime: 255583 ns
-2026-09-11 10:27:40 [Test worker] INFO  tiempos - Costo promedio por batalla | 2555 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.24 ms) | nanoTime: 236459 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 8153 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0008 s (0.83 ms) | nanoTime: 826500 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 27550 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.28 ms) | nanoTime: 282125 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 2821 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1316 | tiempo: 0.0007 s (0.72 ms) | nanoTime: 724667 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 724 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0085 s (8.51 ms) | nanoTime: 8505333 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 85 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0001 s (0.13 ms) | nanoTime: 128916 ns
-2026-09-11 10:34:13 [Test worker] INFO  tiempos - Costo promedio por batalla | 1289 ns
-2026-09-11 10:34:33 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 874458 ns
-2026-09-11 10:34:33 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0033 s
-2026-09-11 10:34:34 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0144 s (14.35 ms) | nanoTime: 14351333 ns
-2026-09-11 10:34:34 [main] INFO  tiempos - Costo promedio por batalla | 143 ns
-2026-09-11 10:34:42 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 463542 ns
-2026-09-11 10:34:42 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0023 s
-2026-09-11 10:34:43 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0141 s (14.12 ms) | nanoTime: 14124833 ns
-2026-09-11 10:34:43 [main] INFO  tiempos - Costo promedio por batalla | 141 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.20 ms) | nanoTime: 199041 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 6863 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0009 s (0.91 ms) | nanoTime: 905875 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 30195 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.34 ms) | nanoTime: 338083 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 3380 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1316 | tiempo: 0.0008 s (0.77 ms) | nanoTime: 774167 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 774 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0077 s (7.70 ms) | nanoTime: 7704375 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 77 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0002 s (0.16 ms) | nanoTime: 158833 ns
-2026-09-11 10:35:05 [Test worker] INFO  tiempos - Costo promedio por batalla | 1588 ns
-2026-09-11 10:35:07 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 356125 ns
-2026-09-11 10:35:07 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0028 s
-2026-09-11 10:35:08 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0122 s (12.22 ms) | nanoTime: 12223000 ns
-2026-09-11 10:35:08 [main] INFO  tiempos - Costo promedio por batalla | 122 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.18 ms) | nanoTime: 181459 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 6257 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0010 s (1.00 ms) | nanoTime: 1002958 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 33431 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.32 ms) | nanoTime: 318917 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 3189 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1298 | tiempo: 0.0007 s (0.72 ms) | nanoTime: 723250 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 723 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0075 s (7.55 ms) | nanoTime: 7549708 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 75 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.31 ms) | nanoTime: 312958 ns
-2026-09-11 10:42:49 [Test worker] INFO  tiempos - Costo promedio por batalla | 3129 ns
-2026-09-11 10:42:52 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 361333 ns
-2026-09-11 10:42:52 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0023 s
-2026-09-11 10:42:52 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0117 s (11.68 ms) | nanoTime: 11677250 ns
-2026-09-11 10:42:52 [main] INFO  tiempos - Costo promedio por batalla | 116 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 322875 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0024 s
+2026-09-11 12:33:26 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0135 s (13.54 ms) | nanoTime: 13543334 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Costo promedio por batalla | 135 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0021 s (2.10 ms) | nanoTime: 2099583 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Costo promedio por enemigo derrotado | 8398 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Rotacion circular | enemigos: 100000 | turnos de campo: 2000 | turnos de combate: 100900 | tiempo: 0.0146 s (14.57 ms) | nanoTime: 14572333 ns
+2026-09-11 12:33:26 [main] INFO  tiempos - Costo promedio por enemigo derrotado | 145 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.18 ms) | nanoTime: 180083 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 6209 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0008 s (0.80 ms) | nanoTime: 796917 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 26563 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0004 s (0.36 ms) | nanoTime: 362083 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 3620 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1306 | tiempo: 0.0007 s (0.73 ms) | nanoTime: 729583 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 729 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0077 s (7.66 ms) | nanoTime: 7664959 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 76 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0002 s (0.17 ms) | nanoTime: 168333 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por batalla | 1683 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 50 | turnos de campo: 1 | turnos de combate: 270 | tiempo: 0.0001 s (0.10 ms) | nanoTime: 98917 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1978 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0004 s (0.37 ms) | nanoTime: 370291 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1481 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 50 | turnos de campo: 1 | turnos de combate: 270 | tiempo: 0.0001 s (0.11 ms) | nanoTime: 110208 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 2204 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0003 s (0.29 ms) | nanoTime: 293666 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1174 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0003 s (0.27 ms) | nanoTime: 267959 ns
+2026-09-11 12:33:53 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1071 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 29 | turnos: 145 | tiempo: 0.0002 s (0.17 ms) | nanoTime: 169000 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 5827 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 30 | turnos: 150 | tiempo: 0.0009 s (0.93 ms) | nanoTime: 932625 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 31087 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0003 s (0.33 ms) | nanoTime: 332708 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 3327 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 1000 | turnos: 1362 | tiempo: 0.0007 s (0.75 ms) | nanoTime: 749333 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 749 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0083 s (8.27 ms) | nanoTime: 8271458 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 82 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Entrenamiento masivo | enemigos: 100 | turnos: 360 | tiempo: 0.0001 s (0.14 ms) | nanoTime: 142125 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por batalla | 1421 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 50 | turnos de campo: 1 | turnos de combate: 270 | tiempo: 0.0001 s (0.11 ms) | nanoTime: 107500 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 2150 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0004 s (0.43 ms) | nanoTime: 428500 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1714 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 50 | turnos de campo: 1 | turnos de combate: 270 | tiempo: 0.0001 s (0.08 ms) | nanoTime: 76875 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1537 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0004 s (0.41 ms) | nanoTime: 407125 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1628 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0003 s (0.31 ms) | nanoTime: 308500 ns
+2026-09-11 12:35:03 [Test worker] INFO  tiempos - Costo promedio por enemigo derrotado | 1234 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Batalla unitaria contra Rattata | turnos: 3 | tiempo: 321959 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Generacion de la horda | enemigos: 100000 | tiempo: 0.0025 s
+2026-09-11 12:35:08 [main] INFO  tiempos - Entrenamiento masivo | enemigos: 100000 | turnos: 100260 | tiempo: 0.0148 s (14.82 ms) | nanoTime: 14817708 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Costo promedio por batalla | 148 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Rotacion circular | enemigos: 250 | turnos de campo: 5 | turnos de combate: 1050 | tiempo: 0.0023 s (2.35 ms) | nanoTime: 2347750 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Costo promedio por enemigo derrotado | 9391 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Rotacion circular | enemigos: 100000 | turnos de campo: 2000 | turnos de combate: 100900 | tiempo: 0.0144 s (14.35 ms) | nanoTime: 14351042 ns
+2026-09-11 12:35:08 [main] INFO  tiempos - Costo promedio por enemigo derrotado | 143 ns
